@@ -1,6 +1,6 @@
 ## Hi there 👋 Soy Nicolas Fiallo
 
-¡Bienvenido a mi repositorio personal! Soy un entusiasta del análisis de datos y la tecnología, con experiencia en varios lenguajes de programación y herramientas para resolver problemas complejos y construir soluciones efectivas.
+¡Bienvenido a mi repositorio personal! Soy un estudiante de la Escuela Superior Politecnica del Litoral, entusiasta del análisis de datos y la tecnología, con experiencia en varios lenguajes de programación y herramientas para resolver problemas complejos y construir soluciones efectivas.
 
 ## 💼 Sobre mí
 
@@ -8,13 +8,14 @@ Soy un apasionado del análisis de datos y del desarrollo de soluciones basadas 
 
 ## 🧠 Intereses
 
-- 📊 Análisis de datos
-- 📈 Visualización de datos
-- 🤖 Ciencia de datos y machine learning
+- 📊 Análisis y visualización de datos
+- 🤖 Ciencia de datos
 - 🌐 Desarrollo web (front-end y back-end)
 - 🧩 Resolución de problemas y automatización
 
 ## Proyectos
+
+- 
 
 
 ## 🛠️ Tecnologías y herramientas que utilizo
