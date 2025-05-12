@@ -14,6 +14,9 @@ Soy un apasionado del análisis de datos y del desarrollo de soluciones basadas 
 - 🌐 Desarrollo web (front-end y back-end)
 - 🧩 Resolución de problemas y automatización
 
+## Proyectos
+
+
 ## 🛠️ Tecnologías y herramientas que utilizo
 
 - **Lenguajes de programación**:  
@@ -27,6 +30,11 @@ Soy un apasionado del análisis de datos y del desarrollo de soluciones basadas 
   ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+## Contacto
+- [Linkedin]()
+
+- Correo: nfiallo@espol.edu.ec
 
   
 
