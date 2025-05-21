@@ -13,9 +13,13 @@ Soy un apasionado del análisis de datos y del desarrollo de soluciones basadas 
 - 🌐 Desarrollo web (front-end y back-end)
 - 🧩 Resolución de problemas y automatización
 
-## Proyectos
+## 🃏 Proyectos
 
-- 
+### Juego Cartas **Uno**
+Recreación del clásico juego de cartas **UNO** en formato móvil.  
+Desarrollado íntegramente en **Java** con **Android Studio**, este proyecto implementa todas las reglas oficiales y ofrece una experiencia de juego fluida frente a la maquina.
+EL objetivo es de servir como ejemplo educativo, manejo de animaciones y diseño de interfaces responsivas, además de demostrar buenas prácticas con Git y documentación.
+
 
 
 ## 🛠️ Tecnologías y herramientas que utilizo
@@ -33,7 +37,7 @@ Soy un apasionado del análisis de datos y del desarrollo de soluciones basadas 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
 ## Contacto
-- [Linkedin]()
+- [Linkedin](https://www.linkedin.com/in/nicolas-fiallo-a3a092279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B72JsW0EQTRaInw1WJ4GE9g%3D%3D)
 
 - Correo: nfiallo@espol.edu.ec
 
